@@ -1,4 +1,4 @@
-# StudentRide - Dynamic Carpool System for University Students
+# Uniride - Dynamic Carpool System for University Students
 
 UniRide is a dynamic carpooling platform specifically designed for university students to commute efficiently. It connects students with similar routes, enabling them to share rides, reduce travel costs, and foster a sustainable campus community.
 
